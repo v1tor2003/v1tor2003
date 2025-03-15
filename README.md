@@ -1,5 +1,3 @@
-<img align="right" src="https://profile-counter.glitch.me/v1tor2003/count.svg?"  />
-
 ###
 
 <h1 align="left">Hey 👋 What's up?</h1>
