@@ -77,15 +77,15 @@
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v1tor2003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="165" alt="Vitor's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=v1tor2003&layout=compact&theme=dracula&hide_border=false" height="165" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=v1tor2003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="165" alt="Vitor's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=v1tor2003&layout=compact&theme=dracula&hide_border=false" height="165" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=v1tor2003&theme=dracula&hide_border=false" height="160" alt="Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app?username=v1tor2003&theme=dracula&column=4&margin-w=8&margin-h=8" height="160" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=v1tor2003&theme=dracula&column=4&margin-w=8&margin-h=8" height="160" alt="GitHub Trophies" />
 </div>
 
 <br/>
