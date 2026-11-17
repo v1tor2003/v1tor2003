@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://v1tor2003-portfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=1000&color=FFFFFF&center=true&vCenter=true&width=780&lines=Vitor+Pires+-+Backend+Software+Engineer;C%23+(.NET+8%2F9)+%C2%B7+TypeScript+(NestJS)+%C2%B7+AWS;Real-Time+IoT+Telemetry+%26+Event-Driven+Microservices" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=1000&color=FFFFFF&center=true&vCenter=true&width=780&lines=Vitor+Pires+-+Backend+Software+Engineer;.NET+%C2%B7+NestJS+%C2%B7+AWS;Distributed+Systems+%26+Event-Driven+Architecture" alt="Typing SVG" />
   </a>
 
   <p>Computer Science graduate and Backend Software Engineer specializing in high-throughput microservices, event-driven and messaging architectures, cloud infrastructure, observability, and load/integration testing. Open to remote opportunities and freelance projects across backend, cloud, messaging, and system reliability.</p>
@@ -24,10 +24,6 @@ Most of my commercial code lives in private enterprise repositories, where I arc
   - Architected live telemetry ingestion pipelines (**AWS IoT Core → Amazon Kinesis → AWS Lambda / TimescaleDB**) handling high-velocity flight data.
   - Engineered decoupled event meshes over **Amazon SQS, SNS & EventBridge** with strict idempotency keys, exponential backoff retries, and **Dead-Letter Queue (DLQ)** redrive policies.
   - Eliminated peak-load concurrency bottlenecks using **Redis / Valkey** distributed locks, **DynamoDB**, and **SQL Server**, deployed via **Docker & AWS ECS** with **CloudWatch** observability.
-- **Tech Lead & Backend .NET Engineer at ClosedFun (Remote, Nov 2024 – Nov 2025):**
-  Led backend architecture in **ASP.NET Core (.NET 8)** using **Clean & Vertical Slice Architecture (CQRS)**. Engineered multi-gateway payment and billing pipelines (**Stripe, Mercado Pago, EfiPay**) with idempotent transaction processing, automated financial reconciliation, and **Prometheus + Grafana** monitoring.
-- **Reliability, Observability & Testing:**
-  Validating distributed workflows against real containerized dependencies with **Testcontainers**, enforcing unit/integration suites in **xUnit / Vitest**, and stress-testing p99 latency with **NBomber** and **Artillery**.
 
 <details>
 <summary><b>Click to expand: Production IoT Telemetry & Event Mesh Architecture (GTEEX Revolution)</b></summary>
